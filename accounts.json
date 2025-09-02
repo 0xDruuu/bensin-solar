@@ -1,13 +1,8 @@
 [
   {
-    "query_id": "AAFlKM9LAAAAAGUoz0u-tbaM",
-    "user_id": "1271867493",
-    "initData": "query_id=AAFlKM9LAAAAAGUoz0u-tbaM&user=%7B%22id%22%3A1271867493%2C%22first_name%22%3A%22Serigala%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22shingjok%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FFaKuWWywcDdTYw-WxU10XqdWS7B-LbEJU8iTZyjrF34.svg%22%7D&auth_date=1756836297&signature=llvHGwatXt9yNg8ATE6lPloVVfdGvqmnYOzIl1GKmcAe80R81BxYXb5Iu3CDjs56Du8Ch4krU2KxEPWFKQTtCA&hash=37d81786edf1c0cc630d9d1f2365d490f2ef51b1b6d916ac2d5a891f6bc16407"
-
+    "query_id": "AAFlKM9LAAAAAG",
+    "user_id": "1271xxxxx",
+    "initData": "query_id=AAFlKM9LAAAAAGUoz0u-tbaM&user=%7B%22id%22%3A1271867493%2C%22first_xxxxxxxxxxxx"
+    "initData": "query_id=AAGhpmsZAAAAAKGmaxlolKR8&user=%7B%22id%22%3A426485409%2C%22fixxxxxxxxx"
   },
-  {
-    "query_id": "AAGhpmsZAAAAAKGmaxlolKR8",
-    "user_id": "1757095632367",
-    "initData": "query_id=AAGhpmsZAAAAAKGmaxlolKR8&user=%7B%22id%22%3A426485409%2C%22first_name%22%3A%22ruse%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22rusrni%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FoG3r146_76y3w9o-71nKkZcllUxaVUeA6TMTF5DG4gQ.svg%22%7D&auth_date=1756836428&signature=dJF_BHYUannXBocc120-wo4paR6PHN2f731IyaGpAh4Md6tWJIfR_2SNwikeNoMTEdVOo0DAXBsmuQErTqzqAA&hash=9703266473d484a1b14557da68547566613b1821650e4c6c02e6dfd1e7728d22"
-
-  }
+  ]
